@@ -1,0 +1,14 @@
+{
+    "name": "drakx116/xlsx-writer",
+    "description": "The easiest way to create XLSX files (based on PHPOffice/PhpSpreadsheet).",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Drakx116",
+            "email": "alexandre2.guyot@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
