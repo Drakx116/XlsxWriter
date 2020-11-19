@@ -9,7 +9,7 @@
             "email": "alexandre2.guyot@gmail.com"
         }
     ],
-    "version": "1.0.0",
+    "version": "1.0.0-alpha-1",
     "minimum-stability": "stable",
     "require": {}
 }
