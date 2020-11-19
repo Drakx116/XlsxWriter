@@ -1,7 +1,8 @@
 {
     "name": "drakx116/xlsx-writer",
+    "type": "composer-plugin",
+    "homepage": "https://github.com/Drakx116/XlsxWriter",
     "description": "The easiest way to create XLSX files (based on PHPOffice/PhpSpreadsheet).",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
